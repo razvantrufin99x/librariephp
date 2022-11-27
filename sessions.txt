@@ -1,0 +1,10 @@
+<?php
+  session_start();
+ 
+?>
+  
+  <?php
+ session_start();
+ include("conectare.php");
+ include("page top.php");
+?>
